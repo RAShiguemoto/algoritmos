@@ -1,7 +1,7 @@
-# algoritmos
+# Algoritmos
 Implementando algoritmos conhecidos:
 
-# Pesquisa Binária
+# -> Pesquisa Binária
 
 ![image](https://github.com/RAShiguemoto/algoritmos/assets/24597559/f16a6d25-4736-477d-95d8-e5654e3d0ab9)
 
